@@ -82,3 +82,10 @@ The following graph compares the CNN and ResNet model's loss and accuracy. We’
 
 **ResNet**
 ![image](https://github.com/Isaiahensley/CAPTCHA-Recognition-Models/assets/143129356/82736ad6-8b78-4db3-8f23-409421d85b2e)
+
+-----------------------
+
+## Collaborators
+
+- [antoniosmata](https://github.com/antoniosmata)
+
